@@ -1,16 +1,28 @@
-## Hi there 👋
+`// maako`
 
-<!--
-**MAKOMIKOLAKO/MAKOMIKOLAKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering undergrad at Georgia Tech (Stamps Scholar). Working at the
+intersection of sensing hardware and learned models that act in
+real time.
 
-Here are some ideas to get you started:
+`// labs`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Inan Lab — multimodal biosignal ML: TCN for levodopa state classification
+  (EEG, ECG, respiratory), SCG beat quality (submitted, ACM)
+- EPIC Lab — hip-knee exoskeleton platform: sensor hardware, PCB layout,
+  embedded enclosures
+
+`// also`
+
+Founding Treasurer, WEAR@GT. Peer Instructor, Georgia Tech HIVE Makerspace.
+
+`// direction`
+
+Grad school next, then industry research.
+
+`// links`
+
+[maako.dev](https://maako.dev) · [email](mailto:maako.fangajei@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mfangajei/) · [Scholar](https://scholar.google.com/citations?user=-2sBsfMAAAAJ&hl=en)
+
+`// now`
+
+See pinned repos below for current and past work.
