@@ -1,6 +1,6 @@
 `// maako`
 
-Electrical Engineering undergrad at Georgia Tech (Stamps Scholar). Working at the
+Computer Engineering undergrad at Georgia Tech (Stamps Scholar). Working at the
 intersection of sensing hardware and learned models that act in
 real time.
 
