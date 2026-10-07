@@ -17,7 +17,7 @@ Founding Treasurer, WEAR@GT. Peer Instructor, Georgia Tech HIVE Makerspace.
 
 `// direction`
 
-Grad school next, then industry research.
+Graduate school.
 
 `// links`
 
